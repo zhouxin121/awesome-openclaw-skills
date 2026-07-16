@@ -147,3 +147,5 @@
 - [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - Order groceries from Zepto in seconds.
 - [lobstermail-agent-email](https://clawskills.sh/skills/samuelchenardlovesboards-lobstermail-agent-email) - Email for AI agents. No API keys, no signup.
 - [sol-email](https://clawhub.ai/amrree/sol-email) - Read and send emails via himalaya (Maildir) and SMTP. Real inbox, real replies.
+- [MindVault](https://github.com/zhouxin121/mindvault) - 思维永生：全网唯一完整保存原始对话+DRAS-V五步思考协议。5000+轮实战验证。
+- 
